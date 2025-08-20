@@ -29,10 +29,6 @@ The goal of this project is to keep your desktop clean and organized without req
   Currently, the program only sorts files in the Desktop directory.  
   In future updates, it will include other locations such as **Downloads**, **Documents**, and custom user-defined folders.  
 
-- **DRY (Don’t Repeat Yourself) Improvements**  
-  Some methods currently repeat similar logic for moving files.  
-  A refactoring step will introduce a shared method for file-moving operations, reducing redundancy and making the code cleaner and easier to maintain.  
-
 - **Configuration Options**  
   Allow users to customize which file types go into which folders.  
 
